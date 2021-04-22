@@ -8,6 +8,6 @@ This file is used to find the correlation between PM2.5 and temperature or dewpo
 ## Graph.ipynb
 Used to plot the graphs between PM2.5 and temperature/dewpoint.
 
-#Note
+*Note*
 
 1. Png files are the plots for the different cities
